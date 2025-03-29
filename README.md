@@ -11,11 +11,7 @@ I researched various **edit distance algorithms**, analyzed academic papers, art
 - `docs/` - Additional references and notes.
 
 ## 🚀 Getting Started
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/String-Similarity-LevenshteinX.git
-cd String-Similarity-LevenshteinX
-```
+
 
 ### Run the Implementation
 ```bash
